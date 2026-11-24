@@ -1,0 +1,36 @@
+export const reviews = [
+{initial:'A',name:'Amit S.',date:'May 2, 2025',rating:5,body:'1 साल से बेरोजगार था। हर जगह rejection। Confidence टूट गया था। Papa disappointed। Mummy रोती थीं। Friend ने यह गाइड recommend की। बोला "₹199 ही तो हैं, try kar।" Best decision ever! 💯 2 महीने में setup हो गया। अब 10+ clients हैं। ₹50k+ monthly आ रहा है। Papa अब गर्व से बताते हैं - "मेरा बेटा अपना बिजनेस करता है।" 🙏❤️'},
+{initial:'R',name:'Rohit K.',date:'April 18, 2025',rating:5,body:'मैं ₹12k की जॉब में था। रोज़ बॉस की डांट। कोई रिस्पेक्ट नहीं। Life में कोई एक्साइटमेंट नहीं। ₹199 रिस्क लिया। गाइड पढ़ी। 1 महीना प्रैक्टिस किया। पहली क्लाइंट - ₹800। फिर रेफरल से 2 और। अब 4 महीने हो गए। जॉब छोड़ दी। 9-12 रेगुलर क्लाइंट्स हैं। ₹48k-₹55k monthly। 💪 सबसे बड़ी बात - खुश हूं। Free हूं। अपना बॉस हूं।'},
+{initial:'S',name:'Sunil P.',date:'March 29, 2025',rating:4,body:'College में हूं, final year। Papa का प्रेशर था "पढ़ाई के साथ कुछ करो।" यह गाइड ली। सिर्फ Saturday-Sunday करता हूं। 3-4 क्लाइंट्स। ₹35k-₹40k महीने के। Pocket money के लिए अब Papa से नहीं मांगना पड़ता।'},
+{initial:'V',name:'Vikas T.',date:'April 7, 2025',rating:5,body:'मैं छोटे शहर (नासिक) में हूं। सोचा था "यहां कौन लेगा मसाज?" मैं गलत था! 🤦‍♂️ गाइड में बताए तरीके से local Facebook group में post किया। 1 हफ्ते में 2 inquiries आईं। अब 5 महीने हो गए। Competition बिल्कुल नहीं। मैं ही हूं पूरे एरिया में। 7-8 रेगुलर clients। ₹35k-₹45k monthly कमाता हूँ।'},
+{initial:'M',name:'Manish R.',date:'May 6, 2025',rating:5,body:'गाइड लेने के बस 2 हफ्ते बाद पहली क्लाइंट मिली। 😊 अब 3 महीने हो गए, 6 रेगुलर क्लाइंट्स हैं। मेरी जॉब चल रही है, वीकेंड में यह करता हूं। हर महीने ₹45k-₹50k एक्स्ट्रा आ रहे हैं। 💰 पापा को बताया तो पहले डर गए, फिर जब पैसे दिखाए तो बोले "बेटा सही किया।" 🙏'},
+{initial:'K',name:'Karan D.',date:'April 25, 2025',rating:4,body:'मेरी सबसे बड़ी achievement? Paise नहीं - Papa की smile। 😊 पहली बार जब ₹5000 Papa को दिए - "Beta, तुमने खुद कमाए?" अब हर महीना ₹15k-₹20k घर देता हूं। बाकी मेरे खर्चे के। Papa अब सबको बताते हैं - "मेरा बेटा खुद का setup किया है।" यह feeling... priceless है। 🙏❤️ पैसे से ज्यादा - respect मिली। Thank you इस गाइड का! 💯'},
+{initial:'N',name:'Nitin J.',date:'May 10, 2025',rating:5,body:'मैं बहुत छोटे शहर (औरंगाबाद) में रहता हूं। सोचा "यहां कौन जानता है massage के बारे में?" यहां competition zero है। मैं पहला हूं। 1-2 को service दी। उनको मज़ा आया। 😊 Unhone word-of-mouth फैलाया। ₹40k-₹45k महीने के कमाता हूँ। छोटे शहर में यह बहुत है!। 🙏❤'},
+{initial:'A',name:'Anuj M.',date:'May 12, 2025',rating:5,body:'मुझे बिल्कुल भरोसा नहीं था। "₹199 में क्या मिलेगा? Scam होगा।" बस curiosity में ले लिया। PDF खोली - 150+ pages! 📕 Photos, templates, scripts - सब detailed! 😳 Building की aunty को free service दी। Back pain relief मिला। Unhone ₹1500 दे दिए और 2 friends को refer किया। अब 2 week में 4 clients मिले। ₹20k कमा चुका हूँ। 🔥'}
+];
+export const stories=[
+{name:'RAHUL',age:'26 साल',role:'Security Guard → Home Masseur',image:'story-rahul.jpg',quote:'"Bhai main security guard tha। ₹11,000 salary। रात की duty। कोई respect नहीं। Is guide se seekha। पहले apni building की aunties को free service। वो खुश हुईं। Refer kiya। अब 6 regular clients। Weekend par। ₹20,000-₹25,000 extra monthly। Security job bhi hai (safety ke liye)। But ab tension नहीं। Savings है। Confidence है."'},
+{name:'AMIT',age:'24 साल',role:'Unemployed → Full-time Home Service',image:'story-amit.jpg',quote:'"2 mahine tak ghar baithe tha। Interviews reject। Papa gussa। Mummy tension। ₹199 mein ye guide li। Socha kuch toh try karte hain। 2 hafte practice। Society mein flyers। WhatsApp status। Pehli client mili। ₹800। Haath kaanpe! 3 mahine mein... 12 regular clients। ₹45,000-₹50,000 monthly। Ab ghar mein respect। Apne paise। Apna kaam। Best feeling ever!"'},
+{name:'SANJAY',age:'29 साल',role:'Delivery Boy → Premium Masseur',image:'story-sanjay.jpg',quote:'"Swiggy delivery karta tha। Dhoop, barish, traffic। ₹15,000 mahine ke। Body bhi kharab। Guide dekhi। Thoda hesitate kiya। But ₹199 tha toh risk le liya। 1 mahina practice। Upper-middle-class areas target किए। Premium positioning। Ab delivery chhod di। 8-10 premium clients। ₹1,200-₹1,500 per session। ₹60,000+ monthly। Same mehnat। 4X income। Better lifestyle।"'}
+];
+export const modules=[
+['💆‍♀️','मॉड्यूल 1: प्रोफेशनल मसाज टेक्निक्स','स्टेप-बाय-स्टेप फोटोज़ के साथ','बैक, नेक, शोल्डर, फुल बॉडी'],
+['🏠','मॉड्यूल 2: होम सर्विस बिजनेस','क्लाइंट कैसे ढूंढें','प्राइसिंग: ₹2000-₹5000'],
+['🛡️','मॉड्यूल 3: सेफ्टी और बाउंड्रीज़','महिलाओं के घर सेफली जाएं','प्रोफेशनल बिहेवियर'],
+['🔄','मॉड्यूल 4: क्लाइंट रिटेंशन','रेगुलर क्लाइंट्स कैसे बनाएं','रेफरल सिस्टम'],
+['📈','मॉड्यूल 5: स्केलिंग रोडमैप','0 से ₹30k (30 दिन)','₹30k से ₹60k+ (2-3 महीने)']
+];
+export const bonuses=[
+['💬','बोनस 1: कम्पलीट कम्युनिकेशन पैक','20+ व्हाट्सऐप टेम्पलेट्स (हिंदी + इंग्लिश)','फोन कॉल स्क्रिप्ट्स • प्रोफेशनल इंट्रोडक्शन','₹599'],
+['📊','बोनस 2: बिजनेस ग्रोथ ट्रैकर','डेली क्लाइंट ट्रैकिंग शीट • मंथली इनकम कैलकुलेटर','एक्सपेंस मैनेजमेंट टेम्पलेट • ग्रोथ एनालिसिस चार्ट','₹299'],
+['🎯','बोनस 3: क्लाइंट चेकलिस्ट','50+ लोकल मार्केटिंग आइडियाज • बिल्डिंग अप्रोच स्ट्रेटेजी','ऑनलाइन लिस्टिंग गाइड (Justdial, Sulekha) • रेफरल प्रोग्राम सेटअप','₹599'],
+['💎','बोनस 4: प्रीमियम सर्विस अपग्रेड गाइड','ऐड-ऑन सर्विसेज़ (aromatherapy, hot stone)','प्रीमियम पैकेज डिज़ाइन • VIP क्लाइंट हैंडलिंग • ₹2,000+ चार्ज करने के सीक्रेट्स','₹899'],
+['👨‍👩‍👧‍👦','बोनस 5: लाइफटाइम कम्युनिटी सपोर्ट','प्राइवेट व्हाट्सऐप ग्रुप • वीकली ट्रेनिंग सेशन्स','मेंबर्स-ओनली टिप्स • नेटवर्किंग ऑपर्च्युनिटीज़','₹1,499']
+];
+export const faqs=[
+['यह मसाज बिजनेस क्या है और इसमें क्या सिखाया जाता है?','हमारी E-Book गाइड में आपको मसाज बिजनेस शुरू करने से लेकर प्रोफेशनल तरीके से काम करने तक की पूरी जानकारी दी जाती है, जिससे आप आसानी से कमाई शुरू कर सकते हैं।'],
+['क्या इस गाइड से सच में कमाई की जा सकती है?','हाँ, सही तरीके अपनाने पर बहुत से लोग रोज़ ₹4,000 से ₹5,000 तक कमा रहे हैं। यह गाइड आपको वही proven तरीके सिखाती है।'],
+['क्या यह बिजनेस पूरी तरह लीगल और सुरक्षित है?','बिल्कुल। गाइड में आपको सुरक्षित, प्रोफेशनल और लीगल तरीके से काम करने की पूरी जानकारी दी गई है।'],
+['मसाज बिजनेस शुरू करने के लिए कितना निवेश जरूरी है?','आप बहुत कम खर्च में शुरुआत कर सकते हैं। गाइड में low investment से बिजनेस शुरू करने के practical tips दिए गए हैं।'],
+['मुझे E-Book कब और कैसे मिलेगी?','पेमेंट के तुरंत बाद आपको E-Book का instant download link मिल जाएगा जिसे आप मोबाइल या लैपटॉप पर पढ़ सकते हैं।']
+];

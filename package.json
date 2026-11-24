@@ -1,0 +1,11 @@
+{
+  "name": "massage-guide-static-netlify",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "npx --yes serve . -l 5173",
+    "preview": "npx --yes serve dist -l 4173"
+  }
+}
